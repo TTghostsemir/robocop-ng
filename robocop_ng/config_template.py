@@ -3,7 +3,7 @@ import datetime
 
 # Basic bot config, insert your token here, update description if you want
 prefixes = [".", "!"]
-token = "token-goes-here"
+token = "MTA4OTIxMDIzNjg4MTA5MjcwOA.Grqhk7.EaTMtgrGsvJuiif950KuhZ156x-Y1udygJZfJ0"
 bot_description = "Robocop-NG, the moderation bot of ReSwitched."
 
 # If you forked robocop-ng, put your repo here
